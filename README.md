@@ -11,4 +11,5 @@ Methods will track the time it takes to complete the following operations (each 
 - Add
 - Search
 - Remove
+
 User/Pass values for ArrayLists are stored in user objects; HashMap stores as a normal key/value pair
